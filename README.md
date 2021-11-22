@@ -1,4 +1,38 @@
-### Hi there 👋
+<p align="center">
+	<samp>
+		Hi, I'm Kari 👋<br/><br/>
+		I'm a computer science student from Finland!
+	</samp>
+</p>
+
+I love programming in Python, but somehow always end up using JavaScript.
+ - Currently studying computer science at the University of Helsinki
+ - Used to study mechanical engineering at the Aalto University
+ - Interested in gamedev, backend and prototyping
+ - Frontend is fine too, not nearly as fun though
+ - Hobbies: 3d-modeling, electronics, woodworking and drawing
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sainigma&show_icons=true&hide_border=1&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainigma&layout=compact&langs_count=8&exclude_repo=BangleApps,ohtu-2021,ohtu-2021-viikko1,fullStack2019,webhooktest,sainigma.github.io&hide_border=1&theme=buefy" /></a> |
+| ------------- | ------------- |
+
+### Project highlights
+
+<table align="center">
+	<tr>
+		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=partiosanomalaite&hide_border=1&theme=buefy'></td>
+		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=brutal-wolfenstein-vr-weapons&hide_border=1&theme=buefy'></td>
+		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=tykkipeli&hide_border=1&theme=buefy'></td>
+	</tr>
+	<tr>
+		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=arcade-controller&hide_border=1&theme=buefy'></td>
+		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=logitech-pedals-to-usb&hide_border=1&theme=buefy'></td>
+		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=remote-slide-changer&hide_border=1&theme=buefy'></td>
+	</tr>
+	<tr>
+		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=sima-generator&hide_border=1&theme=buefy'></td>
+		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=sturdy-photo-archive&hide_border=1&theme=buefy'></td>
+	</tr>
+</table>
 
 <!--
 **sainigma/sainigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -19,18 +19,20 @@ I love programming in Python, but somehow always end up using JavaScript.
 
 <table align="center">
 	<tr>
-		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=partiosanomalaite&hide_border=1&theme=buefy'></td>
-		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=brutal-wolfenstein-vr-weapons&hide_border=1&theme=buefy'></td>
-		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=tykkipeli&hide_border=1&theme=buefy'></td>
+		<td><a href='https://github.com/sainigma/partiosanomalaite'><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=partiosanomalaite&hide_border=1&theme=buefy'></a></td>
+		<td><a href='https://github.com/sainigma/tykkipeli'><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=tykkipeli&hide_border=1&theme=buefy'></a></td>
 	</tr>
 	<tr>
-		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=arcade-controller&hide_border=1&theme=buefy'></td>
-		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=logitech-pedals-to-usb&hide_border=1&theme=buefy'></td>
-		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=remote-slide-changer&hide_border=1&theme=buefy'></td>
+		<td><a href='https://github.com/sainigma/brutal-wolfenstein-vr-weapons'><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=brutal-wolfenstein-vr-weapons&hide_border=1&theme=buefy'></a></td>
+		<td><a href='https://github.com/sainigma/arcade-controller'><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=arcade-controller&hide_border=1&theme=buefy'></a></td>
 	</tr>
 	<tr>
-		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=sima-generator&hide_border=1&theme=buefy'></td>
-		<td><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=sturdy-photo-archive&hide_border=1&theme=buefy'></td>
+		<td><a href='https://github.com/sainigma/logitech-pedals-to-usb'><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=logitech-pedals-to-usb&hide_border=1&theme=buefy'></a></td>
+		<td><a href='https://github.com/sainigma/remote-slide-changer'><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=remote-slide-changer&hide_border=1&theme=buefy'></a></td>
+	</tr>
+	<tr>
+		<td><a href='https://github.com/sainigma/sima-generator'><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=sima-generator&hide_border=1&theme=buefy'></a></td>
+		<td><a href='https://github.com/sainigma/sturdy-photo-archive'><img src='https://github-readme-stats.vercel.app/api/pin/?username=sainigma&repo=sturdy-photo-archive&hide_border=1&theme=buefy'></a></td>
 	</tr>
 </table>
 
